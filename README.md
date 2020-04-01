@@ -1,5 +1,7 @@
 # Exercise 2 - Lists and indices
 
+Pierwsze zmiany w lokalnym repozytorium w pliku README.md
+
 The exercise for this week is meant to help you better understand data types and lists in Python, and practice saving changes to your files using Git and GitHub.
 
 For each problem you need to modify the given notebook, and then push your changes to GitHub.
