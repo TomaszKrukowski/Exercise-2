@@ -5,7 +5,7 @@ The exercise for this week is meant to help you better understand data types and
 For each problem you need to modify the given notebook, and then push your changes to GitHub.
 
 
-- **Exercise 2 is due by 09:00 on 18.9.**
+- **Exercise 2 is due by 09:00 on 18.9.** - dotyczy tylko studentów Uniwersytetu w Helskinkach
 - Scores on this exercise are out of **20 points**.
 
 ## Where to find help
